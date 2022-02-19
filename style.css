@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Body */
+body {
+  background-image: url(./imagens/purple.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+/* Container Principal*/
+.container {
+  background-color: #f5f5f5;
+  margin-top: 100px;
+  padding-top: 30px;
+  border-radius: 7px;
+  width: 700px !important;
+  height: 600px;
+}
+.signWith {
+  text-align: center;
+}
+.signWith h2 {
+  font-size: 48px;
+}
+/* Botões */
+.buttons {
+  text-align: center;
+  margin-top: 30px;
+}
+.btnFace {
+  border: white;
+  background-color: #3b5998;
+  color: white;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 80px;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.btnGoo {
+  border: white;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 12px;
+  width: 200px;
+  height: 80px;
+  font-size: 20px;
+  border: 1px solid #dcdcdc;
+}
+.bi-google {
+  color: red;
+}
+/* Caixa Username */
+.usernameBox {
+  text-align: center;
+  padding-top: 20px;
+}
+.name {
+  padding-right: 350px;
+  padding-bottom: 5px;
+  font-size: 22px;
+}
+.inputUsername {
+  border-radius: 7px;
+  width: 450px !important;
+  height: 50px;
+  margin: auto;
+}
+/* Caixa Password*/
+.passwordBox {
+  text-align: center;
+  padding-top: 20px;
+}
+.password {
+  padding-right: 293px;
+  padding-bottom: 5px;
+  font-size: 22px;
+}
+.forgot {
+  color: gray;
+  font-size: 14px;
+  padding-left: 3px;
+}
+.inputPassword {
+  width: 450px !important;
+  height: 50px;
+  margin: auto;
+}
+/* Botão Sign In*/
+.buttonSign {
+  text-align: center;
+  margin-top: 30px;
+}
+.btnSign {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  width: 450px;
+  height: 60px;
+  border: 1px solid black;
+  font-size: 25px;
+}
+
+.textSign {
+  text-align: center;
+  margin-top: 20px;
+}
+.signColor {
+  color: gray;
+}
+/* Rodapé */
+.mainFooter {
+  margin-top: 80px;
+  padding: 10px;
+}
+.footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.madeByMe {
+  font-size: 17px;
+  color: white;
+  padding-right: 15px;
+}
+.bi {
+  font-size: 17px;
+}
