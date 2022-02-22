@@ -1,1 +1,125 @@
-*{margin:0;padding:0}body{background-image:url(./imagens/purple.jpg);background-repeat:no-repeat;background-size:cover;height:100vh}.container{background-color:#f5f5f5;margin-top:100px;padding-top:30px;border-radius:7px;width:700px!important;height:600px}.signWith{text-align:center}.signWith h2{font-size:48px}.buttons{text-align:center;margin-top:30px}.btnFace{border:#fff;background-color:#3b5998;color:#fff;padding:10px;border-radius:12px;margin-bottom:20px;width:200px;height:80px;margin-right:50px;font-size:20px}.btnGoo{border:#fff;background-color:#fff;color:#000;padding:10px;border-radius:12px;width:200px;height:80px;font-size:20px;border:1px solid #dcdcdc}.bi-google{color:red}.usernameBox{text-align:center;padding-top:20px}.name{padding-right:350px;padding-bottom:5px;font-size:22px}.inputUsername{border-radius:7px;width:450px!important;height:50px;margin:auto}.passwordBox{text-align:center;padding-top:20px}.password{padding-right:293px;padding-bottom:5px;font-size:22px}.forgot{color:gray;font-size:14px;padding-left:3px}.inputPassword{width:450px!important;height:50px;margin:auto}.buttonSign{text-align:center;margin-top:30px}.btnSign{background-color:#000;color:#fff;border-radius:10px;width:450px;height:60px;border:1px solid #000;font-size:25px}.textSign{text-align:center;margin-top:20px}.signColor{color:gray}.mainFooter{margin-top:80px;padding:10px}.footer{display:flex;text-align:center;justify-content:center}.madeByMe{font-size:17px;color:#fff;padding-right:15px}.bi{font-size:17px}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(./imagens/purple.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.container {
+  background-color: #f5f5f5;
+  margin-top: 100px;
+  padding-top: 30px;
+  border-radius: 7px;
+  width: 700px !important;
+  height: 600px;
+}
+.signWith {
+  text-align: center;
+}
+.signWith h2 {
+  font-size: 48px;
+}
+.buttons {
+  text-align: center;
+  margin-top: 30px;
+}
+.btnFace {
+  border: #fff;
+  background-color: #3b5998;
+  color: #fff;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 80px;
+  margin-right: 50px;
+  font-size: 20px;
+}
+.btnGoo {
+  border: #fff;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  border-radius: 12px;
+  width: 200px;
+  height: 80px;
+  font-size: 20px;
+  border: 1px solid #dcdcdc;
+}
+.bi-google {
+  color: red;
+}
+.usernameBox {
+  text-align: center;
+  padding-top: 20px;
+}
+.name {
+  padding-right: 350px;
+  padding-bottom: 5px;
+  font-size: 22px;
+}
+.inputUsername {
+  border-radius: 7px;
+  width: 450px !important;
+  height: 50px;
+  margin: auto;
+}
+.passwordBox {
+  text-align: center;
+  padding-top: 20px;
+}
+.password {
+  padding-right: 293px;
+  padding-bottom: 5px;
+  font-size: 22px;
+}
+.forgot {
+  color: gray;
+  font-size: 14px;
+  padding-left: 3px;
+}
+.inputPassword {
+  width: 450px !important;
+  height: 50px;
+  margin: auto;
+}
+.buttonSign {
+  text-align: center;
+  margin-top: 30px;
+}
+.btnSign {
+  background-color: #000;
+  color: #fff;
+  border-radius: 10px;
+  width: 450px;
+  height: 60px;
+  border: 1px solid #000;
+  font-size: 25px;
+}
+.textSign {
+  text-align: center;
+  margin-top: 20px;
+}
+.signColor {
+  color: gray;
+}
+.mainFooter {
+  margin-top: 80px;
+  padding: 10px;
+}
+.footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.madeByMe {
+  font-size: 17px;
+  color: #fff;
+  padding-right: 15px;
+}
+.bi {
+  font-size: 17px;
+}
