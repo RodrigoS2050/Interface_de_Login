@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0;
 }
 body {
   background-image: url(./imagens/purple.jpg);
@@ -112,7 +111,6 @@ body {
 }
 .footer {
   display: flex;
-  text-align: center;
   justify-content: center;
 }
 .madeByMe {
